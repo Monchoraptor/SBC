@@ -1,0 +1,27 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
+      <option name="ALIGN_IF_ELSE" value="true" />
+      <option name="SPACE_BEFORE_INFIX_OPERATOR_LIKE_METHOD_CALL_PARENTHESES" value="false" />
+      <option name="SPACE_BEFORE_BRACE_METHOD_CALL" value="false" />
+      <option name="NEWLINE_AFTER_ANNOTATIONS" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="5" />
+      <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
+      <indentOptions>
+        <option name="INDENT_SIZE" value="4" />
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="TAB_SIZE" value="4" />
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
